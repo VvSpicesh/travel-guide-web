@@ -1,0 +1,7 @@
+:HL["/travel-guide-web/_next/static/chunks/0uuwz1q-z-v1n.css","style"]
+:HL["/travel-guide-web/_next/static/chunks/375v-woqdwpro.css","style"]
+:HL["/travel-guide-web/_next/static/chunks/0d1wfrahaz119.css","style"]
+:HL["/travel-guide-web/_next/static/chunks/1jgh3_dq1xekr.css","style"]
+:HL["/travel-guide-web/_next/static/chunks/31exo9ixwo08s.css","style"]
+:HC["/",""]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"demo","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"fWMWqeNBRSpj0KSgPmrvm"}
