@@ -2,7 +2,7 @@
 :HL["/travel-guide-web/_next/static/chunks/375v-woqdwpro.css","style"]
 :HL["/travel-guide-web/_next/static/chunks/0d1wfrahaz119.css","style"]
 :HL["/travel-guide-web/_next/static/chunks/1jgh3_dq1xekr.css","style"]
-:HL["/travel-guide-web/_next/static/chunks/31exo9ixwo08s.css","style"]
+:HL["/travel-guide-web/_next/static/chunks/0iwo3izesip91.css","style"]
 :HC["/",""]
 :HL["/travel-guide-web/_next/static/chunks/21-yo8d46q05v.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"trips","param":null,"prefetchHints":0,"slots":{"children":{"name":"tripId","param":{"type":"d","key":"hk-macau-2026","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"days","param":null,"prefetchHints":0,"slots":{"children":{"name":"dayId","param":{"type":"d","key":"day02","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"10xHAGpRh_pStPg8tSLt3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"trips","param":null,"prefetchHints":0,"slots":{"children":{"name":"tripId","param":{"type":"d","key":"hk-macau-2026","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"days","param":null,"prefetchHints":0,"slots":{"children":{"name":"dayId","param":{"type":"d","key":"day02","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"W1UsubSM3pSa9cgpQjige"}
