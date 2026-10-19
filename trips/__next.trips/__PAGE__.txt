@@ -1,6 +1,7 @@
 1:"$Sreact.fragment"
-2:I[90902,["/travel-guide-web/_next/static/chunks/05-c3ty_6dwfk.js","/travel-guide-web/_next/static/chunks/14mrh2-p_w84d.js","/travel-guide-web/_next/static/chunks/2gen_iaa3ydq9.js","/travel-guide-web/_next/static/chunks/3rk4locnkueya.js"],"TripsPageContent"]
+2:I[90902,["/travel-guide-web/_next/static/chunks/05-c3ty_6dwfk.js","/travel-guide-web/_next/static/chunks/14mrh2-p_w84d.js","/travel-guide-web/_next/static/chunks/01033-3wr4qa2.js","/travel-guide-web/_next/static/chunks/0b07grjad8ih7.js"],"TripsPageContent"]
 3:I[97367,["/travel-guide-web/_next/static/chunks/05-c3ty_6dwfk.js","/travel-guide-web/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/travel-guide-web/_next/static/chunks/2gen_iaa3ydq9.js","async":true}],["$","script","script-1",{"src":"/travel-guide-web/_next/static/chunks/3rk4locnkueya.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"reFxoXAqp8-6bwqRz2s70"}
+:HL["/travel-guide-web/_next/static/chunks/2h-6i0_9uf5za.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/travel-guide-web/_next/static/chunks/2h-6i0_9uf5za.css","precedence":"next"}],["$","script","script-0",{"src":"/travel-guide-web/_next/static/chunks/01033-3wr4qa2.js","async":true}],["$","script","script-1",{"src":"/travel-guide-web/_next/static/chunks/0b07grjad8ih7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"RYIa8j7CZijpdWyn53YfH"}
 5:null
