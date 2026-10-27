@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[97367,["/travel-guide-web/_next/static/chunks/19-qnkpnb-91u.js","/travel-guide-web/_next/static/chunks/3xc2tbwki87uf.js","/travel-guide-web/_next/static/chunks/14mrh2-p_w84d.js","/travel-guide-web/_next/static/chunks/2co11olnu8cwo.js"],"OutletBoundary"]
+3:I[97367,["/travel-guide-web/_next/static/chunks/1b7637vsjrq7e.js","/travel-guide-web/_next/static/chunks/3pyohyjkhvw8u.js","/travel-guide-web/_next/static/chunks/14mrh2-p_w84d.js","/travel-guide-web/_next/static/chunks/3yi0k6g7rtpq3.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ezrtuixHVVzpniAagCp3w"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"TiI797gD9HFdBezML374l"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/trips/hk-macau-2026?seed=1;307;"}
